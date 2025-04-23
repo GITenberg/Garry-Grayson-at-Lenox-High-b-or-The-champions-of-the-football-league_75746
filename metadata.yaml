@@ -1,0 +1,54 @@
+_repo: Garry-Grayson-at-Lenox-High-b-or-The-champions-of-the-football-league_75746
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Rogers, Walter S. (Walter Stanton)
+    aliases:
+    - Rogers, W. S.
+    - Rogers, Walter Stanton
+    birthdate: 1870
+    deathdate: 1937
+    gutenberg_agent_id: '7671'
+    url: http://www.gutenberg.org/2009/agents/7671
+    wikipedia: https://en.wikipedia.org/wiki/Walter_S._Rogers
+creator:
+  author:
+    agent_name: Stratemeyer, Edward
+    aliases:
+    - Winfield, Arthur M.
+    - Steward, Ray M.
+    - Bonehill, Ralph
+    - Bonehill, Captain Ralph
+    - Dawson, Elmer A.
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '1626'
+    url: http://www.gutenberg.org/2009/agents/1626
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Edward_Stratemeyer
+    - https://www.gutenberg.org/ebooks/author/55530
+description: ''
+gutenberg_issued: '2025-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75746'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=osu.32435054473160&view=1up&seq=7
+pgterms:marc905: 20221124141309dawson
+pgterms:marc906: '1926'
+pgterms:marc907: us
+production_note: Aaron Adrignola, Mary Meehan and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bGrosset & Dunlap, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Teenage boys -- Juvenile fiction'
+- !lcsh 'High schools -- Juvenile fiction'
+- !lcsh 'Football stories'
+- !lcc 'PZ'
+- GITenberg
+title: 'Garry Grayson at Lenox High : $b or, The champions of the football league'
+url: http://www.gutenberg.org/ebooks/75746
